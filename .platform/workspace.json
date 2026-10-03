@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "WEDORA",
+      "name": "WEDORA",
+      "root": "",
+      "buildSystem": "native",
+      "settings": {},
+      "modules": [],
+      "libraries": []
+    }
+  ]
+}
