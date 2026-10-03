@@ -1,7 +1,8 @@
 #v2
-4
+5
 /storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/project/app/src/main/kotlin/com/wedora/app/MainActivity.kt	0	0	text
 /storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/project/app/module.toml	0	0	text
 /storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/README.md	0	0	text
 /storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/build.gradle.kts	0	0	text
 /storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/app/src/main/AndroidManifest.xml	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/WEDORA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml	0	0	text
